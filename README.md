@@ -9,6 +9,8 @@ parameters. Urban parameters include
 6. Station status (urban/rural) 
 7. Distance of station to other stations (in km) 
 Weather parameters are air temperature, relative humidity recorded for each station every day for one month.
+
+
 For solving above mentioned problem structure (in C) was used to satisfy the functionality as required by the problem statement.
 Sorting algorithm used :
   1)Merge Sort
